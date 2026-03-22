@@ -1,6 +1,5 @@
 {
   "rewrites": [
-    { "source": "/api/flights", "destination": "/api/flights" },
-    { "source": "/(.*)", "destination": "/public/index.html" }
+    { "source": "/api/flights", "destination": "/api/flights" }
   ]
 }
